@@ -34,6 +34,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Mock Up
 ![mockup](assets/reactPortfolio.png)
+https://main--suzet-portfolio.netlify.app/
 
 ## Resources
 I would like to thank my colleagues for guiding me through this project. I also used the Learning Assistant to help with syntax issues as well as issues regarding the dependencies I had to install. 
